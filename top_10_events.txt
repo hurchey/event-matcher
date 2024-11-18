@@ -1,0 +1,70 @@
+{
+    "Event Name": "TBOX | Chicago's 28th Annual 12 Bars of Xmas/Santa Crawl | 25+ Wrigley Bars",
+    "Event URL": "https://www.eventbrite.com/e/984312454047",
+    "Brief Description": "World's Largest Christmas Bar Crawl in Wrigley!  Pop-Up Bars, Free Breakfast, $9 in Gift Cards To Use On The Crawl, Drink Specials & More!",
+    "Relevance Rank": 1
+}
+
+{
+    "Event Name": "New York Tech Career Fair: Exclusive Tech Hiring Event",
+    "Event URL": "https://www.eventbrite.com/e/146584912419",
+    "Brief Description": "Tech Career Fair focus on helping companies achieve their diversity and inclusivity initiative with more diverse non-traditional candidates",
+    "Relevance Rank": 2
+}
+
+{
+    "Event Name": "GameHub JC\u2019s Ultimate Gaming Tournament - November 23rd",
+    "Event URL": "https://www.eventbrite.com/e/1074663911689",
+    "Brief Description": "Join us at GameHub JC's Ultimate Gaming Tournament on November 23rd for a day filled with epic gaming battles and fierce competition!",
+    "Relevance Rank": 3
+}
+
+{
+    "Event Name": "Plug and Play Silicon Valley November Summit 2024",
+    "Event URL": "https://www.eventbrite.com/e/938781269047",
+    "Brief Description": "Discover the magic of AI technologies and unlock endless possibilities.",
+    "Relevance Rank": 4
+}
+
+{
+    "Event Name": "Sasquatch Summit 2024",
+    "Event URL": "https://www.eventbrite.com/e/743897235657",
+    "Brief Description": "Sasquatch Summit, hosted at the Quinault Beach Resort & Casino in Ocean Shores.",
+    "Relevance Rank": 5
+}
+
+{
+    "Event Name": "BKS 15th Anniversary: Fantastic Voyage",
+    "Event URL": "https://www.eventbrite.com/e/1002711155057",
+    "Brief Description": "Get ready to set sail on a Fantastic Voyage as we celebrate 15 years of BKS with music, dancing, and good vibes!  Limited tables available.",
+    "Relevance Rank": 6
+}
+
+{
+    "Event Name": "HBS Holidazzle 2024",
+    "Event URL": "https://www.eventbrite.com/e/1069749151509",
+    "Brief Description": "Join us for Apr\u00e8s in the Alps here in Boston with DJ Don Woodbury from the Vintage Room at Deer Valley.",
+    "Relevance Rank": 7
+}
+
+{
+    "Event Name": "Winter Wonderland Ice Skating presented by Kaiser Permanente",
+    "Event URL": "https://www.eventbrite.com/e/1053366199659",
+    "Brief Description": "Ice Skate for FREE at Thrive City!",
+    "Relevance Rank": 8
+}
+
+{
+    "Event Name": "2024 Apostolic Assembly General Convention",
+    "Event URL": "https://www.eventbrite.com/e/916568159037",
+    "Brief Description": "Welcome to the 2024 Apostolic Assembly Convention! Join us from November 28th to November 30th in Anaheim, CA for this year's convention!",
+    "Relevance Rank": 9
+}
+
+{
+    "Event Name": "Southern California Conference for Undergraduate Research (SCCUR) 2024",
+    "Event URL": "https://www.eventbrite.com/e/778446312877",
+    "Brief Description": "SCCUR 2024 provides a forum for the presentation of the best research, scholarship, and creative activities of undergraduate students.",
+    "Relevance Rank": 10
+}
+

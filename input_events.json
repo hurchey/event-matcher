@@ -1,0 +1,122 @@
+{
+    "strategy": {
+        "target_audience": "startups",
+        "objectives": "networking",
+        "industry_sector": "technology",
+        "geographic_focus": "midwest",
+        "budget_constraints": "500-1000",
+        "kpi": "leads generated"
+    },
+    "events": [
+        {
+            "event_id": "146584912419",
+            "name": "New York Tech Career Fair: Exclusive Tech Hiring Event",
+            "description": "Tech Career Fair focus on helping companies achieve their diversity and inclusivity initiative with more diverse non-traditional candidates",
+            "start_time": "2024-12-06T12:00:00",
+            "end_time": "2024-12-06T15:00:00",
+            "venue": "New York",
+            "category": "Business & Professional",
+            "maximum_ticket_price": "0.00 USD",
+            "url": "https://www.eventbrite.com/e/146584912419"
+        },
+        {
+            "event_id": "1074663911689",
+            "name": "GameHub JC\u2019s Ultimate Gaming Tournament - November 23rd",
+            "description": "Join us at GameHub JC's Ultimate Gaming Tournament on November 23rd for a day filled with epic gaming battles and fierce competition!",
+            "start_time": "2024-11-23T10:00:00",
+            "end_time": "2024-11-23T20:00:00",
+            "venue": "No city available",
+            "category": "Hobbies & Special Interest",
+            "maximum_ticket_price": "50.00 USD",
+            "url": "https://www.eventbrite.com/e/1074663911689"
+        },
+        {
+            "event_id": "938781269047",
+            "name": "Plug and Play Silicon Valley November Summit 2024",
+            "description": "Discover the magic of AI technologies and unlock endless possibilities.",
+            "start_time": "2024-11-19T08:00:00",
+            "end_time": "2024-11-21T18:00:00",
+            "venue": "Sunnyvale",
+            "category": "Business & Professional",
+            "maximum_ticket_price": "3197.73 USD",
+            "url": "https://www.eventbrite.com/e/938781269047"
+        },
+        {
+            "event_id": "743897235657",
+            "name": "Sasquatch Summit 2024",
+            "description": "Sasquatch Summit, hosted at the Quinault Beach Resort & Casino in Ocean Shores.",
+            "start_time": "2024-11-22T18:00:00",
+            "end_time": "2024-11-23T19:00:00",
+            "venue": "Ocean Shores",
+            "category": "Travel & Outdoor",
+            "maximum_ticket_price": "75.00 USD",
+            "url": "https://www.eventbrite.com/e/743897235657"
+        },
+        {
+            "event_id": "1002711155057",
+            "name": "BKS 15th Anniversary: Fantastic Voyage",
+            "description": "Get ready to set sail on a Fantastic Voyage as we celebrate 15 years of BKS with music, dancing, and good vibes!  Limited tables available.",
+            "start_time": "2024-11-23T19:00:00",
+            "end_time": "2024-11-23T23:00:00",
+            "venue": "Wilmington",
+            "category": "Travel & Outdoor",
+            "maximum_ticket_price": "450.00 USD",
+            "url": "https://www.eventbrite.com/e/1002711155057"
+        },
+        {
+            "event_id": "984312454047",
+            "name": "TBOX | Chicago's 28th Annual 12 Bars of Xmas/Santa Crawl | 25+ Wrigley Bars",
+            "description": "World's Largest Christmas Bar Crawl in Wrigley!  Pop-Up Bars, Free Breakfast, $9 in Gift Cards To Use On The Crawl, Drink Specials & More!",
+            "start_time": "2024-12-14T10:00:00",
+            "end_time": "2024-12-14T20:00:00",
+            "venue": "Chicago",
+            "category": "Seasonal & Holiday",
+            "maximum_ticket_price": "39.99 USD",
+            "url": "https://www.eventbrite.com/e/984312454047"
+        },
+        {
+            "event_id": "1069749151509",
+            "name": "HBS Holidazzle 2024",
+            "description": "Join us for Apr\u00e8s in the Alps here in Boston with DJ Don Woodbury from the Vintage Room at Deer Valley.",
+            "start_time": "2024-12-06T21:00:00",
+            "end_time": "2024-12-06T23:30:00",
+            "venue": "Boston",
+            "category": "Seasonal & Holiday",
+            "maximum_ticket_price": "75.00 USD",
+            "url": "https://www.eventbrite.com/e/1069749151509"
+        },
+        {
+            "event_id": "1053366199659",
+            "name": "Winter Wonderland Ice Skating presented by Kaiser Permanente",
+            "description": "Ice Skate for FREE at Thrive City!",
+            "start_time": "2024-12-21T10:00:00",
+            "end_time": "2024-12-21T19:00:00",
+            "venue": "San Francisco",
+            "category": "Seasonal & Holiday",
+            "maximum_ticket_price": "0.00 USD",
+            "url": "https://www.eventbrite.com/e/1053366199659"
+        },
+        {
+            "event_id": "916568159037",
+            "name": "2024 Apostolic Assembly General Convention",
+            "description": "Welcome to the 2024 Apostolic Assembly Convention! Join us from November 28th to November 30th in Anaheim, CA for this year's convention!",
+            "start_time": "2024-11-28T08:00:00",
+            "end_time": "2024-11-30T00:00:00",
+            "venue": "Anaheim",
+            "category": "Religion & Spirituality",
+            "maximum_ticket_price": "30.00 USD",
+            "url": "https://www.eventbrite.com/e/916568159037"
+        },
+        {
+            "event_id": "778446312877",
+            "name": "Southern California Conference for Undergraduate Research (SCCUR) 2024",
+            "description": "SCCUR 2024 provides a forum for the presentation of the best research, scholarship, and creative activities of undergraduate students.",
+            "start_time": "2024-11-23T07:30:00",
+            "end_time": "2024-11-23T17:00:00",
+            "venue": "San Bernardino",
+            "category": "Family & Education",
+            "maximum_ticket_price": "85.00 USD",
+            "url": "https://www.eventbrite.com/e/778446312877"
+        }
+    ]
+}
